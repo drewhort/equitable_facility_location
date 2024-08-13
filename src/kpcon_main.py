@@ -9,7 +9,7 @@ MEASURE='KPCON'
 
 #define parameters and file paths    
     
-FILE_PATH = '/home/drew/data/'
+FILE_PATH = '/equitable_facility_location/data/'
 CITY_NUM = int(sys.argv[1])
 KP_THRESHOLD=float(sys.argv[2])
 
