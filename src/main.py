@@ -8,7 +8,7 @@ import os
 
 #define parameters and file paths    
     
-FILE_PATH = '/home/drew/data/'
+FILE_PATH = '/equitable_facility_location/data/'
 CITY_NUM = int(sys.argv[1])
 NUM_TO_OPEN=int(sys.argv[2])
 #which model to run options are KPL, PMED, PCENT, KPCON
